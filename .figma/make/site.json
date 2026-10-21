@@ -1,0 +1,10 @@
+{
+  "description": "This platform enhances the student experience by providing a streamlined view of assignments and grades, enabling easy tracking of academic progress.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
